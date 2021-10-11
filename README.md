@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @replierNite
-- 📫 How to reach me (I am almost done with the sign)
-
+- 📫 Email me and you'll get my signature!
+- 💡 Currently writing meaningful git commits because my CTO says so.
